@@ -8138,3 +8138,6 @@ CN         CH3CCH                 HCN        CH2CCH                             
 CN         CH2CCH2                CH2CCHCN   H                                             3.690e-10  0.000e+00  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3 12001 1  1
 CN         CH2CCH2                CNCH2CCH   H                                             4.100e-11  0.000e+00  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3 12002 1  1
 CN         CH2CCH                 CNCH2CCH   Photon                                        1.000e-10  0.000e+00  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3 12003 1  1
+H          CH2CCH                 CH3CCH     Photon                                        1.000e-13 -1.500e-00  0.000e+00 1.00e+01 0.00e+00 logn  6     10    300  3  5356 1  1
+H          CH2CCH                 CH2CCH2    Photon                                        1.000e-13 -1.500e-00  0.000e+00 1.00e+01 0.00e+00 logn  6     10    300  3  5357 1  1
+CH2CCH     CH2CCH                 C6H5       H                                             4.000e-11  0.000e+00  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3 12004 1  1
