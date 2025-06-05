@@ -8072,6 +8072,12 @@ C4H3CN     H3+                    CH2        HCN+       CH2CCH                  
 C4H3CN     C+                     C2N+       CH2CCH     C                                  1.000e+00  2.066e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 11952 1  1
 C4H3CN     HCO+                   HCO        CN+        CH2CCH     C                       1.000e+00  1.450e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 11953 1  1
 C4H3CN     H3O+                   H2O        HCN+       CH2CCH     C                       1.000e+00  1.705e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 11954 1  1
+CH2CCHCN   H+                     HCN+       CH2CCH                                        1.000e+00  6.707e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12005 1  1
+CH2CCHCN   H3+                    H2         HCN+       CH2CCH                             1.000e+00  3.931e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12006 1  1
+CH2CCHCN   He+                    He         CN+        CH2CCH                             1.000e+00  3.429e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12007 1  1
+CH2CCHCN   C+                     C2N+       CH2CCH                                        1.000e+00  2.091e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12008 1  1
+CH2CCHCN   HCO+                   HCO        CN+        CH2CCH                             1.000e+00  1.486e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12009 1  1
+CH2CCHCN   H3O+                   H2O        HCN+       CH2CCH                             1.000e+00  1.736e-09  5.213e+00 2.00e+00 0.00e+00 logn  4     10    300  4 12010 1  1
 !************ Allene reactions ***************
 ! Added by Alex Byrne on 8/9/22
 ! Added the species CH2CCH2, along with its formation
