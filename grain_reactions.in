@@ -4119,3 +4119,15 @@ JCH2CCH2                          CH2CCH2                                       
 JH         JCH2CCH                JCH2CCH2                                                 1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 14  -9999   9999  0 12025 1  1
 JH         JCH2CCH                CH2CCH2                                                  1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 14  -9999   9999  0 12026 1  1
 KH         KCH2CCH                KCH2CCH2                                                 1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 14  -9999   9999  0 12027 1  1
+!******** Cyanoallene grain reactions ********
+! Added by Alex Byrne
+! Necessary grain reactions for inclusion of
+! new species cyanoallene (CH2CCHCN)
+!*********************************************
+CH2CCHCN                          JCH2CCHCN                                                1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 99  -9999   9999  0 12028 1  1
+JCH2CCHCN                         CH2CCHCN                                                 1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 15  -9999   9999  0 12029 1  1
+JCH2CCHCN                         CH2CCHCN                                                 1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 16  -9999   9999  0 12030 1  1
+JCH2CCHCN                         KCH2CCHCN                                                1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 40  -9999   9999  0 12031 1  1
+KCH2CCHCN                         JCH2CCHCN                                                1.000e+00  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 41  -9999   9999  0 12032 1  1
+JCH2CCHCN                         CH2CCHCN                                                 1.000e-04  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 66  -9999   9999  0 12033 1  1
+JCH2CCHCN                         CH2CCHCN                                                 1.000e-04  0.000e+00  0.000e+00 0.00e+00 0.00e+00   NA 67  -9999   9999  0 12034 1  1
